@@ -25,5 +25,4 @@ Studying tecnologies by myself to learn.
 
 ## Alguns dados sobre meu GitHub / Some data about my GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanlucTeifer&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanlucTeifer&layout=compact&theme=tokyonight)](https://github.com/VanlucTeifer)
 ![Snake animation](https://github.com/VanlucTeifer/VanlucTeifer/blob/output/github-contribution-grid-snake.svg)
