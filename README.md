@@ -15,12 +15,12 @@ Eng: 👋🏻 Hello, welcome to Lucas Vanderlei (VanlucTeifer) profile
 
 ```
 Sou formado em Engenharia Mecatrônica pelo Centro Universitário Tiradentes - UNIT. 
-Atualmente sou instrutor de robótica e programação na SuperGeeks e busco entrar no mercado de DEV.
-Estudando as tecnologias de forma autodidata e sempre busco aprender.
+Atualmente sou instrutor de robótica e programação no Colégio Rosalvo Ribeiro.
+Estudando as tecnologias de forma autodidata adquirindo conhecimento.
 
 Eng: I'm graduated in Mechatronics Engineering at Centro Universitário Tiradentes - UNIT.
-Nowadays I'm robotic and programming instructor at Supergeeks and trying to enter the DEV market.
-Studying tecnologies by myself and always want to learn.
+Nowadays I'm robotic and programming instructor at Rosalvo Ribeiro High School.
+Studying tecnologies by myself to learn.
 ```
 
 ## Alguns dados sobre meu GitHub / Some data about my GitHub
