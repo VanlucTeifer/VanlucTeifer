@@ -1,6 +1,6 @@
 <h3 align="center"> 
-Br:  👋🏻 Olá, bem-vindo ao perfil do Lucas Vanderlei (VanlucTeifer)<br>
-Eng: 👋🏻 Hello, welcome to Lucas Vanderlei (VanlucTeifer) profile
+PT-BR:  👋🏻 Olá, bem-vindo ao perfil do Lucas Vanderlei (VanlucTeifer)<br>
+EN: 👋🏻 Hello, welcome to Lucas Vanderlei (VanlucTeifer) profile
 </h3>
 <h4 align="center">
 
