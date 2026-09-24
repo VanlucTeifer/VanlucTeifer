@@ -15,11 +15,11 @@ EN: 👋🏻 Hello, welcome to Lucas Vanderlei (VanlucTeifer) profile
 
 ```
 Sou formado em Engenharia Mecatrônica pelo Centro Universitário Tiradentes - UNIT. 
-Atualmente sou instrutor de robótica e programação no Colégio Rosalvo Ribeiro.
+Atualmente sou instrutor de tecnologia da EDU I.T.
 Estudando as tecnologias de forma autodidata adquirindo conhecimento.
 
 Eng: I'm graduated in Mechatronics Engineering at Centro Universitário Tiradentes - UNIT.
-Nowadays I'm robotic and programming instructor at Rosalvo Ribeiro High School.
+Nowadays I'm technology instructor at EDU I.T.
 Studying tecnologies by myself to learn.
 ```
 
